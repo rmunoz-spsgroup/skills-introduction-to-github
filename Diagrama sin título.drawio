@@ -8822,7 +8822,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XwP4GyeAk2aVnngpc934-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.78;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iQZdI8rloQcw2C6K8Eup-525" target="iQZdI8rloQcw2C6K8Eup-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="1135" />
+              <mxPoint x="680" y="830" />
+              <mxPoint x="519" y="830" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XwP4GyeAk2aVnngpc934-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iQZdI8rloQcw2C6K8Eup-543">
           <mxGeometry relative="1" as="geometry">
